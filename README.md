@@ -1,2 +1,2 @@
 # Front-End
-Projetos de HTML, CSS, Javascript feitos por mim.
+Projetos de HTML, CSS, Javascript feitos por mim / ou em aula!
